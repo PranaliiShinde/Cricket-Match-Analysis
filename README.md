@@ -44,6 +44,8 @@ Win/loss ratios and scoring patterns
 
 Dashboard View:
 <img width="1243" height="868" alt="image" src="https://github.com/user-attachments/assets/b99c69a0-6fe5-47d5-88b0-dcf412fe2ac0" />
+<img width="871" height="655" alt="image" src="https://github.com/user-attachments/assets/37ee2b93-9ae0-4ae1-905a-0637e508137f" />
+<img width="1246" height="660" alt="image" src="https://github.com/user-attachments/assets/0685b736-a50f-4b75-9e88-734b0a9cb0a1" />
 
 
 🧑‍💻 Author
