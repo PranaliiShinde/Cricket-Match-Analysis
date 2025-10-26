@@ -47,7 +47,7 @@ Dashboard View:
 <img width="871" height="655" alt="image" src="https://github.com/user-attachments/assets/37ee2b93-9ae0-4ae1-905a-0637e508137f" />
 <img width="1246" height="660" alt="image" src="https://github.com/user-attachments/assets/0685b736-a50f-4b75-9e88-734b0a9cb0a1" />
 
-<img width="1237" height="684" alt="image" src="https://github.com/user-attachments/assets/af25b0c4-57db-4ed2-95db-89fa29509bb8" />
+<img width="1192" height="489" alt="image" src="https://github.com/user-attachments/assets/8803f3aa-3577-41fd-85fc-9a3039fa1088" />
 <img width="1564" height="661" alt="image" src="https://github.com/user-attachments/assets/9307c5ef-8899-45db-8bea-5a344b8312b1" />
 
 
