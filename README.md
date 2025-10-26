@@ -42,6 +42,10 @@ Bowling efficiency comparison
 
 Win/loss ratios and scoring patterns
 
+Dashboard View:
+<img width="1243" height="868" alt="image" src="https://github.com/user-attachments/assets/b99c69a0-6fe5-47d5-88b0-dcf412fe2ac0" />
+
+
 🧑‍💻 Author
 
 Pranali Shinde
